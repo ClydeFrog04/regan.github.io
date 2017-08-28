@@ -1,0 +1,18 @@
+div {
+  display: table;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  border: 2px solid #0000FF;
+}
+h1 {
+  font-family: "Verdana";
+  display: table-cell;
+  vertical-align: middle;
+  color: rgb(66,238,244);
+}
+body {
+  background: url("http://vignette1.wikia.nocookie.net/mutant-future/images/b/bb/Fallout-new-vegas-vault-boy-radiation-dice-games.jpg/revision/latest?cb=20130328211727");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
